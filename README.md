@@ -17,7 +17,7 @@ $ nano .env
 ```
 Database preparation and seeding...
 ```sh
-$ npm prepare_db
+$ npm run prepare_db
 ```
 
 ### Development
